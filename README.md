@@ -57,3 +57,16 @@ Visa-Travel-Requirements-Checker/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v18.x or higher)
+- [npm](https://www.npmjs.com/) (v9.x or higher)
+
+### Installation & Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Harry-aura/Visa-Travel-Requirements-Checker.git](https://github.com/Harry-aura/Visa-Travel-Requirements-Checker.git)
+   cd Visa-Travel-Requirements-Checker
