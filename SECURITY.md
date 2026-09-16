@@ -1,3 +1,9 @@
 # Security Policy
 
-If you discover any security vulnerabilities, please open an issue or report via repository security advisories.
+### Supported Versions
+| Version | Supported |
+| :--- | :--- |
+| 1.0.x | Yes |
+
+### Reporting a Vulnerability
+Please open a private security advisory through GitHub or report directly via repository issues.

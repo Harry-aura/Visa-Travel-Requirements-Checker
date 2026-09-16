@@ -1,7 +1,8 @@
 # Contributing Guidelines
 
+Thank you for contributing to Visa & Travel Requirements Checker!
+
 1. Fork the repository.
-2. Create a feature branch (git checkout -b feature/your-feature).
-3. Commit your changes (git commit -m 'Add some feature').
-4. Push to branch (git push origin feature/your-feature).
-5. Open a Pull Request.
+2. Create a topic branch: git checkout -b feature/improvement.
+3. Commit with clear commit messages.
+4. Submit a Pull Request.

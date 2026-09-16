@@ -1,19 +1,20 @@
 ﻿<div align="center">
-  <img src="https://raw.githubusercontent.com/Harry-aura/Visa-Travel-Requirements-Checker/main/client/public/favicon.ico" alt="Logo" width="80" height="80" onerror="this.src='https://cdn-icons-png.flaticon.com/512/826/826070.png'" />
+  <a href="https://harry-aura.github.io/Visa-Travel-Requirements-Checker/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Visa Checker Logo" width="80" height="80" />
+  </a>
   <h1 align="center">✈️ Visa & Travel Requirements Checker</h1>
-  <p align="center"><strong>A comprehensive full-stack travel intelligence & entry regulations platform</strong></p>
+  <p align="center"><strong>A comprehensive full-stack travel intelligence & entry regulations web platform</strong></p>
   <p align="center">
-    <a href="https://harry-aura.github.io/Visa-Travel-Requirements-Checker/"><img src="https://img.shields.io/badge/LIVE%20DEMO-VERCEL%20%2F%20PAGES-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker"><img src="https://img.shields.io/badge/API%20SERVER-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
-    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker"><img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://harry-aura.github.io/Visa-Travel-Requirements-Checker/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20DEMO-VISIT%20APP-2ea44f?style=for-the-badge" alt="Live Demo" /></a>
+    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker#readme"><img src="https://img.shields.io/badge/%F0%9F%93%96%20DOCUMENTATION-OVERVIEW-blue?style=for-the-badge" alt="Docs" /></a>
+    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker"><img src="https://img.shields.io/badge/%E2%AD%90%20GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js%2020-43853D?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />
+    <a href="https://react.dev"><img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+    <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js_20-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" /></a>
+    <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></a>
+    <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License" /></a>
   </p>
 </div>
 
@@ -21,31 +22,23 @@
 
 ## 📖 Overview
 
-A centralized travel intelligence solution providing up-to-date entry rules for international travel across 190+ jurisdictions. Built with modern web standards, this platform streamlines:
+A centralized travel intelligence solution providing verified entry criteria across 190+ sovereign territories. Built with modern web standards, this platform streamlines travel preparation:
 
-- 🛂 **Visa Classification** - Instant eligibility for Visa-Free, Visa on Arrival (VoA), eVisa, and Embassy Visas
-- ⏳ **Passport Validity Guard** - Automated tracking of 6-month rules and required blank passport pages
-- 💉 **Health & Vaccine Protocols** - Yellow Fever, mandatory vaccinations, and destination-specific alerts
-- 📋 **Customs & Currency Controls** - Duty-free allowances, cash declaration thresholds, and restricted imports
-- 🌍 **Traveler Document Kit** - Interactive checklist generator for flight tickets, hotels, and required return proof
+- 💳 **Visa Status Breakdown** - Instant verification: Visa-Free, Visa on Arrival (VoA), eVisa, or Embassy Visa required.
+- 🚨 **Passport Validity Guard** - Flags the international 6-month validity rule, blank visa page minimums, and damage cautions.
+- 📝 **Health & Vaccination Policies** - Mandatory Yellow Fever certificates, recommended immunizations, and travel notes.
+- 🔧 **Customs & Currency Controls** - Duty-free allowances, foreign currency reporting thresholds ($10,000+), and prohibited imports.
+- 🚪 **Checklist Generator** - Step-by-step traveler verification for return tickets, accommodation vouchers, and consular paperwork.
 
 ---
 
 ## 🖥️ Live Demo
 
-| Platform | URL |
-| :--- | :--- |
-| 🌐 Frontend | https://harry-aura.github.io/Visa-Travel-Requirements-Checker/ |
-| 🔗 Backend API | https://visa-travel-requirements-api.onrender.com |
-
----
-
-## 🎬 Visual Demos
-
-| Travel Lookup Portal | Country Rules Inspector | Mobile Responsive View |
-| :---: | :---: | :---: |
-| <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=400&q=80" width="280" height="170" /> | <img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=400&q=80" width="280" height="170" /> | <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=400&q=80" width="280" height="170" /> |
-| **Origin & Destination Match** | **Visa & Health Matrix** | **Responsive Design** |
+| Platform | URL | Purpose |
+| :--- | :--- | :--- |
+| 🌐 **Frontend App** | [Launch Web Application](https://harry-aura.github.io/Visa-Travel-Requirements-Checker/) | Production client dashboard |
+| 🔗 **GitHub Repository** | [Source Code](https://github.com/Harry-aura/Visa-Travel-Requirements-Checker) | Complete source files and documentation |
+| 📑 **System Architecture** | [Architecture Details](./ARCHITECTURE.md) | Technical specs and workflow diagrams |
 
 ---
 
@@ -54,25 +47,17 @@ A centralized travel intelligence solution providing up-to-date entry rules for 
 ### Frontend
 | Technology | Purpose |
 | :--- | :--- |
-| **React 18** | Declarative Component-driven UI framework |
-| **Tailwind CSS** | Utility-first responsive styling and dark mode |
-| **Lucide Icons** | SVG icon system |
-| **Axios** | REST client for API requests and response caching |
+| **React 18** | Modular component-driven user interface |
+| **Tailwind CSS** | Responsive UI styling and adaptive layouts |
+| **Lucide React** | Visual iconography system |
+| **Axios / Fetch** | HTTP client for asynchronous data loading |
 
-### Backend
+### Backend & Services
 | Technology | Purpose |
 | :--- | :--- |
-| **Node.js 20.x** | JavaScript server runtime environment |
-| **Express.js 4.x** | REST API routing and middleware pipeline |
-| **MongoDB Atlas** | Cloud NoSQL database storing visa regulations |
-| **Mongoose 8.x** | Object Data Modeling (ODM) with validation |
-
-### Deployment & Services
-| Platform / Tool | Purpose |
-| :--- | :--- |
-| **GitHub Pages / Vercel** | Client frontend hosting with CDN |
-| **Render** | Dockerized backend API server hosting |
-| **MongoDB Atlas** | Managed cloud database hosting |
+| **Node.js 20.x** | Server runtime environment |
+| **Express.js 4.x** | REST API endpoints and middleware pipeline |
+| **GitHub Pages** | Static site hosting & continuous delivery |
 
 ---
 
@@ -80,30 +65,27 @@ A centralized travel intelligence solution providing up-to-date entry rules for 
 
 ```text
 Visa-Travel-Requirements-Checker/
-├── client/                     # React Frontend
+├── client/                     # Frontend Application
 │   ├── public/                 # Static assets & icons
 │   ├── src/
-│   │   ├── components/         # Reusable UI cards, inputs, navigation
-│   │   ├── context/            # Global state (selected countries, history)
-│   │   ├── hooks/              # Custom data hooks (useTravelData)
-│   │   ├── pages/              # Search, Results, Advisories views
-│   │   ├── utils/              # Passport rules & format helpers
-│   │   ├── App.jsx             # Main router component
+│   │   ├── components/         # Reusable UI cards, selectors, modals
+│   │   ├── pages/              # Requirements search and results views
+│   │   ├── App.jsx             # Main application layout
 │   │   └── main.jsx            # React root mount
 │   └── package.json
 │
-├── server/                     # Express.js Backend
-│   ├── config/                 # Database connection & env validation
-│   ├── controllers/            # Search & requirement route controllers
-│   ├── middleware/             # Rate-limit, CORS, error handling
-│   ├── models/                 # Country, VisaRule, HealthGuide schemas
-│   ├── routes/                 # Country & Requirement endpoints
+├── server/                     # Backend API Server
+│   ├── config/                 # Environment & configuration files
+│   ├── controllers/            # Route logic & travel data handlers
+│   ├── routes/                 # API endpoints
 │   └── package.json
 │
-├── docker-compose.yml          # Local containerized multi-service setup
 ├── ARCHITECTURE.md             # System design & architecture
-├── CONTRIBUTING.md             # Contribution guide
-├── SECURITY.md                 # Security policies
+├── CHANGELOG.md                # Version history & update logs
+├── CONTRIBUTING.md             # Contribution guidelines
+├── PROJECT_PLAN.md             # Project roadmap & milestones
+├── SECURITY.md                 # Security policies & reporting
+├── UI_UX_DESIGN.md             # Visual design tokens & interface guide
 ├── LICENSE                     # MIT License
 └── README.md
 ```
@@ -113,11 +95,10 @@ Visa-Travel-Requirements-Checker/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- **Node.js** 18.x or 20.x LTS
-- **npm** 9.x or higher
-- **MongoDB Atlas** connection string (or local MongoDB 6+)
+- [Node.js](https://nodejs.org/) (v18.x or v20.x LTS)
+- [npm](https://www.npmjs.com/) (v9.x or higher)
 
-### Installation
+### Installation & Run
 
 1. **Clone the repository:**
    ```bash
@@ -125,150 +106,94 @@ Visa-Travel-Requirements-Checker/
    cd Visa-Travel-Requirements-Checker
    ```
 
-2. **Install dependencies:**
+2. **Install frontend dependencies:**
    ```bash
-   # Client setup
    cd client && npm install
+   ```
 
-   # Server setup
+3. **Install server dependencies (optional for backend development):**
+   ```bash
    cd ../server && npm install
    ```
 
-3. **Configure environment variables:**
-
-   **Server (`server/.env.local`):**
-   ```env
-   NODE_ENV=development
-   PORT=5000
-   MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/visa_db
-   CLIENT_URL=http://localhost:5173
-   ```
-
-   **Client (`client/.env.local`):**
-   ```env
-   VITE_API_URL=http://localhost:5000/api
-   ```
-
-4. **Start the development servers:**
+4. **Start the development server:**
    ```bash
-   # Terminal 1 - Server (Port 5000)
-   cd server && npm run dev
-
-   # Terminal 2 - Client (Port 5173)
-   cd client && npm run dev
+   cd ../client && npm run dev
    ```
 
 5. **Open in browser:**
-   - Frontend: `http://localhost:5173`
-   - Backend API: `http://localhost:5000/api/health`
+   Navigate to `http://localhost:5173` or `http://localhost:3000`
 
 ---
 
-## 👥 User Roles & Access Modes
+## 👥 User Roles & Permissions
 
-| Role / Access | Capabilities |
-| :--- | :--- |
-| **Guest Traveler** | Search country pairs, inspect stay limits, view health advisories & customs |
-| **Registered User** | Save favorite routes, generate packing checklists, export PDF summaries |
-| **System Admin** | Update country relations, edit health alerts, refresh customs thresholds |
+| Role | Access Level | Capabilities |
+| :--- | :--- | :--- |
+| **Traveler (Guest)** | Public | Search passport and destination requirements, view customs rules, and check vaccines |
+| **Registered User** | Authenticated | Save favorite travel routes, maintain personal packing lists, and export search summaries |
+| **Admin** | Full Access | Update consular datasets, modify health advisory alerts, and audit country rules |
 
 ---
 
 ## ✨ Features
 
-### 🛂 Visa Decision Engine
-- Instant cross-referencing between passport origin and destination
-- Categorization: **Visa-Free**, **Visa on Arrival**, **eVisa**, or **Embassy Visa**
-- Maximum permitted stay lengths (e.g. 30, 90, or 180 days)
+### 💳 Visa Requirements Engine
+- Direct pairwise lookups between 190+ passport origins and destination countries
+- Visual categorization across **Visa-Free**, **Visa on Arrival (VoA)**, **eVisa**, and **Embassy Visa**
+- Permitted length of stay breakdowns (e.g., 30, 90, or 180 days)
 
-### ⏳ Passport Validity Tracker
-- Dynamic check for 6-month or 3-month passport rules based on destination regulations
-- Warning alerts for required blank pages and damaged passport restrictions
+### 🚨 Passport Validity & Border Alerts
+- Automatic calculation against destination-specific 3-month or 6-month rules
+- Advisories for minimum blank page counts (typically 2 blank facing pages)
 
-### 💉 Health & Vaccination Advisories
-- Real-time alerts for endemic zones (Yellow Fever, Malaria, Polio)
-- Mandatory vaccination certificate warnings at border entry
+### 📝 Health, Vaccine & Quarantine Advisories
+- Real-time indicators for Yellow Fever endemic zones and required certifications
+- Routine immunization guidance and emergency medical insurance advisories
 
-### 📋 Customs & Currency Declarations
-- Duty-free baggage allowance details
-- Foreign exchange cash declaration limits (e.g., $10,000 threshold)
-- Strictly prohibited and restricted items catalogue
+### 🔧 Customs, Currency & Prohibited Items
+- Currency declaration thresholds ($10,000 USD or local equivalent)
+- Duty-free allowances for tobacco, alcohol, and personal electronics
+- Catalogue of strictly prohibited items and import restrictions
 
 ---
 
 ## 🔗 API Endpoints
 
-### Travel Intelligence
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
-| `GET` | `/api/countries` | Fetch full list of all 190+ sovereign countries |
-| `GET` | `/api/requirements?origin=:code&destination=:code` | Complete entry, visa, and passport rules |
-| `GET` | `/api/health/:countryCode` | Health, vaccine, and quarantine requirements |
-| `GET` | `/api/customs/:countryCode` | Customs limits, duty-free rules & prohibitions |
-
-### Health & System
-| Method | Endpoint | Description |
-| :--- | :--- | :--- |
-| `GET` | `/api/health` | Service uptime and database connectivity check |
-
----
-
-## 🐳 Docker Development
-
-```bash
-# Build and start frontend, backend, and mongo services
-docker-compose up -d
-
-# Follow unified logs
-docker-compose logs -f
-
-# Stop services
-docker-compose down
-```
-
----
-
-## 🚀 Deployment
-
-### Frontend (Vercel / GitHub Pages)
-1. Connect GitHub repository to Vercel.
-2. Set Root Directory to `client`.
-3. Configure `VITE_API_URL` in environment variables.
-4. Deploy.
-
-### Backend (Render)
-1. Create a new Web Service on Render from the GitHub repository.
-2. Set Root Directory to `server`.
-3. Build Command: `npm install` | Start Command: `npm start`.
-4. Add `MONGODB_URI` and `CLIENT_URL` to environment variables.
-5. Deploy.
+| `GET` | `/api/countries` | Fetch full list of all supported sovereign nations |
+| `GET` | `/api/requirements?origin=:code&destination=:code` | Full entry rules, visa category, and stay limits |
+| `GET` | `/api/health/:countryCode` | Specific health, quarantine, and vaccination rules |
+| `GET` | `/api/customs/:countryCode` | Duty-free import rules and currency limits |
+| `GET` | `/api/health` | Server uptime check and diagnostics |
 
 ---
 
 ## 🔐 Security
 
-- Sanitized request inputs to prevent injection attacks
-- CORS headers locked to specified client origins
-- Rate limiting on API endpoints to prevent scraping
-- Secure HTTP headers configured with Helmet
+- Sanitized request inputs to guard against injection attacks
+- CORS configuration restricted to authorized domains
+- Client-side input validation on origin/destination selectors
+- Environment variable isolation for API keys and endpoints
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Contributions are welcome! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b feature/NewFeature`)
+3. Commit your changes (`git commit -m 'Add some NewFeature'`)
+4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
@@ -276,6 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Harivikash Katta**
 - GitHub: [@Harry-aura](https://github.com/Harry-aura)
-- Live Application: [Visa & Travel Requirements Checker](https://harry-aura.github.io/Visa-Travel-Requirements-Checker/)
+- Live Project: [Visa & Travel Requirements Checker](https://harry-aura.github.io/Visa-Travel-Requirements-Checker/)
 
 <p align="center">Made with ❤️ for global travelers</p>
