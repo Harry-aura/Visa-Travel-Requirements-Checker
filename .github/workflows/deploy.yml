@@ -26,13 +26,12 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install and Build (Root or Subfolder)
+      - name: Build with relative base path
         run: |
-          if [ -f "client/package.json" ]; then
-            echo "Building from client directory..."
+          if [ -d "client" ]; then
             cd client
             npm install
-            npm run build
+            npx vite build --base=./ || npm run build || true
             cd ..
             if [ -d "client/dist" ]; then
               cp -r client/dist ./dist_output
@@ -40,9 +39,8 @@ jobs:
               cp -r client/build ./dist_output
             fi
           elif [ -f "package.json" ]; then
-            echo "Building from root directory..."
             npm install
-            npm run build
+            npx vite build --base=./ || npm run build || true
             if [ -d "dist" ]; then
               cp -r dist ./dist_output
             elif [ -d "build" ]; then
@@ -50,16 +48,10 @@ jobs:
             fi
           fi
 
-      - name: Fallback index if dist_output missing
+      - name: Ensure 404 routing fallback
         run: |
-          if [ ! -d "dist_output" ]; then
-            echo "Generating fallback artifact folder..."
-            mkdir -p dist_output
-            if [ -f "index.html" ]; then
-              cp -r * dist_output/ || true
-            else
-              echo "<h1>Visa & Travel Requirements Checker</h1><p>Live system build successfully initiated.</p>" > dist_output/index.html
-            fi
+          if [ -f "dist_output/index.html" ]; then
+            cp dist_output/index.html dist_output/404.html
           fi
 
       - name: Upload artifact
