@@ -1,0 +1,208 @@
+{
+  "destinations": {
+    "India": {
+      "visaOptions": [
+        {
+          "type": "e-Tourist (1 Month)",
+          "code": "e-T1 V",
+          "duration": "30 Days",
+          "entries": "Double",
+          "stayLimitation": "30 days total"
+        },
+        {
+          "type": "e-Tourist (1 Year)",
+          "code": "e-T1 V",
+          "duration": "365 Days",
+          "entries": "Multiple",
+          "stayLimitation": "Max 180 days/year (subject to nationality)"
+        },
+        {
+          "type": "e-Tourist (5 Year)",
+          "code": "e-T1 V",
+          "duration": "5 Years",
+          "entries": "Multiple",
+          "stayLimitation": "Max 180 days/year"
+        },
+        {
+          "type": "e-Tourist (Short)",
+          "code": "e-T2 V",
+          "duration": "6 Months",
+          "entries": "Single",
+          "stayLimitation": "Continuous stay only"
+        },
+        {
+          "type": "e-Business (Standard)",
+          "code": "e-B1 V / e-B6 V",
+          "duration": "365 Days",
+          "entries": "Multiple",
+          "stayLimitation": "Continuous visit < 180 days"
+        },
+        {
+          "type": "e-Business (Short)",
+          "code": "e-B5 V",
+          "duration": "30 Days",
+          "entries": "Single",
+          "stayLimitation": "30 days from arrival"
+        },
+        {
+          "type": "e-Medical",
+          "code": "e-M1 V / e-M3 V",
+          "duration": "60 Days",
+          "entries": "Triple",
+          "stayLimitation": "60 days from arrival"
+        },
+        {
+          "type": "e-Family",
+          "code": "e-SX V",
+          "duration": "1 Year",
+          "entries": "Four (4)",
+          "stayLimitation": "Valid from date of ETA grant"
+        },
+        {
+          "type": "e-Transit",
+          "code": "e-TR V",
+          "duration": "30 Days",
+          "entries": "Double",
+          "stayLimitation": "30 days from date of grant"
+        },
+        {
+          "type": "e-Miscellaneous",
+          "code": "e-X1 V",
+          "duration": "3m / 1yr / 5yr",
+          "entries": "Multiple",
+          "stayLimitation": "From date of first entry"
+        }
+      ]
+    },
+    "USA": {
+      "visaOptions": [
+        {
+          "type": "Tourist Visa (B1/B2)",
+          "code": "B1/B2",
+          "duration": "Up to 6 Months",
+          "entries": "Multiple",
+          "stayLimitation": "Strong Ties (job/property) required. Physical interview is MANDATORY."
+        }
+      ]
+    },
+    "Schengen": {
+      "visaOptions": [
+        {
+          "type": "Visa Exempt (ETIAS)",
+          "code": "ETIAS",
+          "duration": "90 Days",
+          "entries": "Multiple",
+          "stayLimitation": "90/180 Day Rule"
+        },
+        {
+          "type": "Standard Schengen Visa",
+          "code": "Type C",
+          "duration": "90 Days",
+          "entries": "Single/Multiple",
+          "stayLimitation": "Requires €30k Travel Insurance. 90/180 Day Rule."
+        }
+      ]
+    },
+    "Japan": {
+      "visaOptions": [
+        {
+          "type": "Tourist e-Visa",
+          "code": "e-Visa",
+          "duration": "15-90 Days",
+          "entries": "Single",
+          "stayLimitation": "Requires $2,000 minimum balance & Visit Japan Web registration."
+        }
+      ]
+    },
+    "UK": {
+      "visaOptions": [
+        {
+          "type": "ETA",
+          "code": "Electronic Travel Auth",
+          "duration": "Up to 6 Months",
+          "entries": "Multiple",
+          "stayLimitation": "Required for visa-exempt travelers."
+        }
+      ]
+    },
+    "Germany": {
+      "visaOptions": [
+        {
+          "type": "Schengen Visa (Type C)",
+          "code": "Type C",
+          "duration": "90 Days",
+          "entries": "Multiple",
+          "stayLimitation": "90/180 day rule. Requires €30,000 Travel Insurance."
+        },
+        {
+          "type": "ETIAS (Visa Exempt)",
+          "code": "ETIAS",
+          "duration": "90 Days",
+          "entries": "Multiple",
+          "stayLimitation": "Mandatory for visa-exempt nationalities starting 2026."
+        }
+      ]
+    },
+    "South Korea": {
+      "visaOptions": [
+        {
+          "type": "K-ETA",
+          "code": "K-ETA",
+          "duration": "Up to 90 Days",
+          "entries": "Multiple",
+          "stayLimitation": "Mandatory for visa-exempt visitors. Valid for 3 years."
+        },
+        {
+          "type": "Tourist Visa",
+          "code": "C-3-9",
+          "duration": "90 Days",
+          "entries": "Single",
+          "stayLimitation": "Requires detailed itinerary and financial proof."
+        }
+      ]
+    },
+    "Canada": {
+      "visaOptions": [
+        {
+          "type": "Electronic Travel Authorization",
+          "code": "eTA",
+          "duration": "Up to 6 Months",
+          "entries": "Multiple",
+          "stayLimitation": "Only for visa-exempt foreign nationals arriving by air."
+        },
+        {
+          "type": "Visitor Visa",
+          "code": "TRV",
+          "duration": "Up to 6 Months",
+          "entries": "Multiple",
+          "stayLimitation": "Biometrics required. Valid for up to 10 years."
+        }
+      ]
+    },
+    "Australia": {
+      "visaOptions": [
+        {
+          "type": "Electronic Travel Authority",
+          "code": "Subclass 601",
+          "duration": "Up to 3 Months",
+          "entries": "Multiple",
+          "stayLimitation": "Available for specific passport holders."
+        },
+        {
+          "type": "Visitor Visa",
+          "code": "Subclass 600",
+          "duration": "3, 6, or 12 Months",
+          "entries": "Single/Multiple",
+          "stayLimitation": "Processing times vary. Medical exam may be required."
+        }
+      ]
+    }
+  },
+  "globalRules": {
+    "passportValidity": "Must be valid for at least 6 months from your date of arrival.",
+    "returnTicket": "Proof of an onward or return flight is required.",
+    "financialProof": "Standard 3-6 months of bank statements.",
+    "vaccinations": "Yellow Fever is mandatory for parts of Africa/South America. COVID-19 is rarely required.",
+    "languageTests": "Never required for tourism; only for work/study/migration."
+  }
+}

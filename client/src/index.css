@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-aviation-light text-slate-800 font-sans;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-aviation-blue text-white px-6 py-2 rounded-lg hover:bg-blue-800 transition-colors duration-200 font-medium shadow-md;
+  }
+  .btn-secondary {
+    @apply bg-white text-aviation-blue border border-aviation-blue px-6 py-2 rounded-lg hover:bg-slate-50 transition-colors duration-200 font-medium shadow-sm;
+  }
+  .card {
+    @apply bg-white rounded-xl shadow-lg border border-slate-100 overflow-hidden;
+  }
+}
