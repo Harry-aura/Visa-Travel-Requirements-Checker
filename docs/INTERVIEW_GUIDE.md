@@ -1,3 +1,3 @@
-﻿# Technical Interview Guide
+﻿# Technical Interview Defense Guide
 
-Discusses rule caching, multi-segment transit evaluations, and bilateral matrix optimization.
+Explains hash matrix indexation vs traditional SQL queries, memory complexity tradeoffs, and edge CDN cache strategies.

@@ -1,3 +1,3 @@
-﻿# Data Flow
+﻿# Data Flow Specification
 
-Request -> Edge Query Validation -> Matrix Index -> Consolidated Payload.
+Request -> Query Normalizer -> In-Memory Matrix Index -> Hydrate Rules & Advisories -> Consolidated Payload Response.

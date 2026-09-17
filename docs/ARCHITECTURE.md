@@ -1,3 +1,3 @@
 ﻿# Architecture Specification
 
-Monorepo separation decoupling React presentation from regulatory rule ingestion.
+Decoupled regulatory ingestion from presentation. Pre-indexes consular datasets into immutable in-memory lookup graphs for O(1) query complexity.

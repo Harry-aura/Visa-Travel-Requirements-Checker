@@ -1,3 +1,3 @@
-﻿# System Design
+﻿# System Design & Scalability Analysis
 
-Sub-millisecond lookup matrix using in-memory indexed hash maps for O(1) pairwise lookup.
+Constant-time amortized matrix evaluation with sub-2ms latency guarantees under concurrent client load.
