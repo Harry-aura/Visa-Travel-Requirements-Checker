@@ -85,6 +85,49 @@ graph LR
 | Latest commit | 2026-09-17 |
 | Jurisdictions covered | 190+ |
 
+## Code Analytics
+
+*Generated from the repository source on 2026-10-09.*
+
+```mermaid
+pie showData title Lines of source code by language
+    "JavaScript (JSX)" : 447
+    "CSS" : 207
+    "JavaScript" : 184
+    "HTML" : 13
+```
+
+```mermaid
+pie showData title Lines of source code by folder
+    "client" : 792
+    "server" : 59
+```
+
+### Largest Source Files
+
+| File | Lines |
+|---|---|
+| `client/src/App.css` | 184 |
+| `client/src/components/VisaResultCard.jsx` | 132 |
+| `client/src/components/SearchForm.jsx` | 116 |
+| `client/src/store/visaSlice.js` | 62 |
+| `client/src/pages/Dashboard.jsx` | 55 |
+
+### Recent Commit Activity
+
+| Date | Commits |
+|---|---|
+| 2026-10-09 | 4 |
+| 2026-09-17 | 2 |
+| 2026-09-16 | 11 |
+
+### Data Catalog
+
+| Dataset | Size | Top-level entries |
+|---|---|---|
+| `server/data/mockDatabase.json` | 6.2 KB | 2 |
+
+
 ## Repository Structure
 
 ```text
