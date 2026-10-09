@@ -7,11 +7,11 @@
     <a href="docs/INTERVIEW_GUIDE.md"><img src="https://img.shields.io/badge/%F0%9F%94%8E%20TECH%20DEFENSE-DEEP%20DIVE-9333EA?style=for-the-badge&labelColor=0d1117" alt="Interview Guide" /></a>
   </p>
   <p align="center">
-    <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-20.x%20LTS-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
-    <a href="https://react.dev"><img src="https://img.shields.io/badge/React-18.x%20SPA-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/TailwindCSS-v3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></a>
-    <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-Multi--Stage-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
-    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker/actions"><img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
+    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker/tree/main/server"><img src="https://img.shields.io/badge/Node.js-20.x%20LTS-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
+    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker/tree/main/client/src"><img src="https://img.shields.io/badge/React-18.x%20SPA-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
+    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker/blob/main/client/tailwind.config.js"><img src="https://img.shields.io/badge/TailwindCSS-v3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></a>
+    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker/blob/main/docker-compose.yml"><img src="https://img.shields.io/badge/Docker-Multi--Stage-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+    <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker/tree/main/.github/workflows"><img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
     <a href="https://github.com/Harry-aura/Visa-Travel-Requirements-Checker/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-F59E0B?style=flat-square" /></a>
   </p>
 </div>
