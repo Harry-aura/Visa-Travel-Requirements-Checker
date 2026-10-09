@@ -72,7 +72,7 @@ graph LR
 
 ## Project at a Glance
 
-![Stars](https://img.shields.io/github/stars/=flat-square) ![Last commit](https://img.shields.io/github/last-commit/=flat-square) ![Issues](https://img.shields.io/github/issues/=flat-square) ![Repo size](https://img.shields.io/github/repo-size/=flat-square) ![Top language](https://img.shields.io/github/languages/top/=flat-square)
+![Stars](https://img.shields.io/github/stars/Harry-aura/Visa-Travel-Requirements-Checker?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/Harry-aura/Visa-Travel-Requirements-Checker?style=flat-square) ![Issues](https://img.shields.io/github/issues/Harry-aura/Visa-Travel-Requirements-Checker?style=flat-square) ![Repo size](https://img.shields.io/github/repo-size/Harry-aura/Visa-Travel-Requirements-Checker?style=flat-square) ![Top language](https://img.shields.io/github/languages/top/Harry-aura/Visa-Travel-Requirements-Checker?style=flat-square)
 
 | Metric | Value |
 |---|---|
