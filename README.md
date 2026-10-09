@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24,31&height=220&section=header&text=%E2%9C%88%EF%B8%8F%20Visa%20&%20Travel%20Intelligence&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mission-Critical%20Global%20Transit%20%7C%20Consular%20Verification%20%7C%20Dynamic%20Risk%20Engine&descFontSize=16&descAlignY=58" width="100%" />
   <br/>
   <p align="center">
@@ -43,7 +43,7 @@ graph LR
 
 | Operational Metric | Target Benchmark | Measured Real-World Execution | Architectural Guarantee |
 | :--- | :--- | :--- | :--- |
-| **Pairwise Matrix Resolution** | < 10ms | **1.8ms** | In-memory hash-indexed lookup ($O(1)$) |
+| **Pairwise Matrix Resolution** | < 10ms | **1.8ms** | In-memory hash-indexed lookup (O(1)) |
 | **First Contentful Paint (FCP)** | < 1.0s | **0.42s** | Zero-render-blocking assets with tree-shaking |
 | **Total Blocking Time (TBT)** | < 50ms | **0ms** | Microtask chunking during dataset initialization |
 | **Consular Dataset Reach** | 180+ Nations | **195 Recognized States** | Complete ISO-3166-1 alpha-2 pairing coverage |
@@ -70,6 +70,53 @@ graph LR
 
 ---
 
+## Project at a Glance
+
+![Stars](https://img.shields.io/github/stars/=flat-square) ![Last commit](https://img.shields.io/github/last-commit/=flat-square) ![Issues](https://img.shields.io/github/issues/=flat-square) ![Repo size](https://img.shields.io/github/repo-size/=flat-square) ![Top language](https://img.shields.io/github/languages/top/=flat-square)
+
+| Metric | Value |
+|---|---|
+| Source files (JS, JSX, CSS, HTML) | 20 |
+| Lines of source code | 851 |
+| Tracked files | 48 |
+| Documentation files (Markdown) | 12 |
+| Total commits | 13 |
+| First commit | 2026-09-16 |
+| Latest commit | 2026-09-17 |
+| Jurisdictions covered | 190+ |
+
+## Repository Structure
+
+```text
+client/            React 18 + Vite + Tailwind single-page application
+server/            Node.js + Express REST API and rules engine
+docs/              Architecture, data flow, scalability and defense guides
+.github/workflows/ CI/CD pipelines (GitHub Actions)
+docker-compose.yml Multi-service container orchestration
+```
+
+## Quick Start
+
+```bash
+git clone https://github.com/Harry-aura/Visa-Travel-Requirements-Checker.git
+cd Visa-Travel-Requirements-Checker
+
+# Option A: Docker
+docker compose up --build
+
+# Option B: run locally
+cd server && npm install
+cd ../client && npm install
+```
+
+Available npm scripts - client:  | server: 
+
+Copy `.env.example` to `.env` and adjust values before running.
+
+## Contributing and Support
+
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md), follow the issue and pull request templates, and report vulnerabilities as described in [SECURITY.md](SECURITY.md).
+---
 ## 📚 Technical Documentation Hub
 
 - [📘 System Architecture Specification](docs/ARCHITECTURE.md)
