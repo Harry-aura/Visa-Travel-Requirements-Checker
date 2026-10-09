@@ -85,6 +85,15 @@ graph LR
 | Latest commit | 2026-09-17 |
 | Jurisdictions covered | 190+ |
 
+## Screenshots
+
+| | |
+|:---:|:---:|
+| **Smart Search**<br>Pick nationality and destination<br><img src="docs/screenshots/home.png" width="100%"> | **USA → Canada**<br>eTA and Visitor Visa pathways<br><img src="docs/screenshots/usa-to-canada.png" width="100%"> |
+| **India → Germany**<br>Schengen Type C and ETIAS<br><img src="docs/screenshots/india-to-germany.png" width="100%"> | **India → USA**<br>B1/B2 tourist visa rules<br><img src="docs/screenshots/india-to-usa.png" width="100%"> |
+
+Each result also shows health and vaccination advisories, FAQs, passport validity, financial, return-ticket and language requirements.
+
 ## Code Analytics
 
 *Generated from the repository source on 2026-10-09.*
